@@ -1,4 +1,4 @@
 # hello-world
 This is a public repository
-This was the best of times, when Osoufia like to stare at his poster.
+This was the best of times, when Osoufia likes to stare at his poster.
 Life is Zenny.
